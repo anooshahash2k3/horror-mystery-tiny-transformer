@@ -1,0 +1,10 @@
+torch
+streamlit
+moviepy<2.0
+pillow
+numpy
+gTTS
+transformers
+accelerate
+huggingface_hub
+requests
